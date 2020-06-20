@@ -8,11 +8,11 @@
   - Algunas fechas tenian formato incorrecto
   
  *Ilustraciones elaboradas
-  -Distribución de infectados de COVID_19 en Junin según género
-  -Distribución de infectados de COVID_19 en Junin según provincia
-  -Distribución de infectados de COVID_19 en Junin según día
-  -Distribución de infectados de COVID_19 en Junin según tipo de prueba
-  -Distribución de infectados de COVID_19 en Junin según edad
+  - Distribución de infectados de COVID_19 en Junin según género
+  - Distribución de infectados de COVID_19 en Junin según provincia
+  - Distribución de infectados de COVID_19 en Junin según día
+  - Distribución de infectados de COVID_19 en Junin según tipo de prueba
+  - Distribución de infectados de COVID_19 en Junin según edad
 
 
-[![Infectados Covid Junin](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Infectados Covid Junin](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/aQ9YjiVbmuA)
